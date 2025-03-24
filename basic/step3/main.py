@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, status
 from pydantic import BaseModel, Field
 from typing import List, Dict, Optional
 import numpy as np
@@ -38,9 +38,10 @@ class PredictionResponse(BaseModel):
     probabilities: Optional[List[float]] = None
 
 # Root endpoint
-@app.get("/")
+@app.get("/", status_code=200)
 async def root():
     return {
+        #"status_code": status,
         "message": "Welcome to the Iris Classifier API",
         "model_type": type(model).__name__,
         "target_classes": target_names.tolist()
