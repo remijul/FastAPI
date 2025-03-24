@@ -26,4 +26,4 @@ jobs:
     
     - name: Run tests
       run: |
-        pytest tests/test_api_v1_v2.py
+        pytest advanced/step2/tests/test_api_v1_v2.py
