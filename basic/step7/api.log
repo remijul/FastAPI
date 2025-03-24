@@ -1,0 +1,1595 @@
+2025-03-17 16:45:40,649 [INFO] Starting up the API server...
+2025-03-17 16:45:40,650 [INFO] API server started successfully
+2025-03-17 17:37:35,339 [INFO] Starting up the API server...
+2025-03-17 17:37:35,341 [INFO] API server started successfully
+2025-03-17 17:37:59,785 [INFO] 1 change detected
+2025-03-17 17:38:00,139 [INFO] 1 change detected
+2025-03-17 17:38:00,500 [INFO] 1 change detected
+2025-03-17 17:38:00,863 [INFO] 1 change detected
+2025-03-17 17:38:01,226 [INFO] 1 change detected
+2025-03-17 17:38:01,585 [INFO] 1 change detected
+2025-03-17 17:38:01,946 [INFO] 1 change detected
+2025-03-17 17:38:02,312 [INFO] 1 change detected
+2025-03-17 17:38:02,678 [INFO] 1 change detected
+2025-03-17 17:38:03,651 [INFO] 1 change detected
+2025-03-17 17:38:04,017 [INFO] 1 change detected
+2025-03-17 17:38:04,384 [INFO] 1 change detected
+2025-03-17 17:38:04,737 [INFO] 1 change detected
+2025-03-17 17:38:05,097 [INFO] 1 change detected
+2025-03-17 17:38:05,458 [INFO] 1 change detected
+2025-03-17 17:38:05,820 [INFO] 1 change detected
+2025-03-17 17:38:07,194 [INFO] 1 change detected
+2025-03-17 17:38:07,551 [INFO] 1 change detected
+2025-03-17 17:38:07,910 [INFO] 1 change detected
+2025-03-17 17:38:08,271 [INFO] 1 change detected
+2025-03-17 17:38:08,626 [INFO] 1 change detected
+2025-03-17 17:38:08,990 [INFO] 1 change detected
+2025-03-17 17:38:09,350 [INFO] 1 change detected
+2025-03-17 17:38:10,621 [INFO] 1 change detected
+2025-03-17 17:38:10,981 [INFO] 1 change detected
+2025-03-17 17:38:11,346 [INFO] 1 change detected
+2025-03-17 17:38:11,760 [INFO] 1 change detected
+2025-03-17 17:38:12,167 [INFO] 1 change detected
+2025-03-17 17:38:12,577 [INFO] 1 change detected
+2025-03-17 17:38:12,937 [INFO] 1 change detected
+2025-03-17 17:38:14,311 [INFO] 1 change detected
+2025-03-17 17:38:14,670 [INFO] 1 change detected
+2025-03-17 17:38:15,084 [INFO] 1 change detected
+2025-03-17 17:38:15,488 [INFO] 1 change detected
+2025-03-17 17:38:15,850 [INFO] 1 change detected
+2025-03-17 17:38:16,301 [INFO] 1 change detected
+2025-03-17 17:38:17,760 [INFO] 1 change detected
+2025-03-17 17:38:18,122 [INFO] 1 change detected
+2025-03-17 17:38:18,483 [INFO] 1 change detected
+2025-03-17 17:38:18,899 [INFO] 1 change detected
+2025-03-17 17:38:19,310 [INFO] 1 change detected
+2025-03-17 17:38:19,720 [INFO] 1 change detected
+2025-03-17 17:38:20,937 [INFO] 1 change detected
+2025-03-17 17:38:21,291 [INFO] 1 change detected
+2025-03-17 17:38:21,705 [INFO] 1 change detected
+2025-03-17 17:38:22,115 [INFO] 1 change detected
+2025-03-17 17:38:22,479 [INFO] 1 change detected
+2025-03-17 17:38:22,891 [INFO] 1 change detected
+2025-03-17 17:38:23,297 [INFO] 1 change detected
+2025-03-17 17:38:24,568 [INFO] 1 change detected
+2025-03-17 17:38:24,932 [INFO] 1 change detected
+2025-03-17 17:38:25,346 [INFO] 1 change detected
+2025-03-17 17:38:25,752 [INFO] 1 change detected
+2025-03-17 17:38:26,165 [INFO] 1 change detected
+2025-03-17 17:38:26,522 [INFO] 1 change detected
+2025-03-17 17:38:27,999 [INFO] 1 change detected
+2025-03-17 17:38:28,366 [INFO] 1 change detected
+2025-03-17 17:38:28,724 [INFO] 1 change detected
+2025-03-17 17:38:29,184 [INFO] 1 change detected
+2025-03-17 17:38:29,543 [INFO] 1 change detected
+2025-03-17 17:38:29,953 [INFO] 1 change detected
+2025-03-17 17:38:31,276 [INFO] 1 change detected
+2025-03-17 17:38:31,643 [INFO] 1 change detected
+2025-03-17 17:38:32,005 [INFO] 1 change detected
+2025-03-17 17:38:32,416 [INFO] 1 change detected
+2025-03-17 17:38:32,827 [INFO] 1 change detected
+2025-03-17 17:38:33,190 [INFO] 1 change detected
+2025-03-17 17:38:33,608 [INFO] 1 change detected
+2025-03-17 17:38:34,974 [INFO] 1 change detected
+2025-03-17 17:38:35,332 [INFO] 1 change detected
+2025-03-17 17:38:35,749 [INFO] 1 change detected
+2025-03-17 17:38:36,163 [INFO] 1 change detected
+2025-03-17 17:38:36,521 [INFO] 1 change detected
+2025-03-17 17:38:36,939 [INFO] 1 change detected
+2025-03-17 17:38:38,207 [INFO] 1 change detected
+2025-03-17 17:38:38,564 [INFO] 1 change detected
+2025-03-17 17:38:38,925 [INFO] 1 change detected
+2025-03-17 17:38:39,389 [INFO] 1 change detected
+2025-03-17 17:38:39,743 [INFO] 1 change detected
+2025-03-17 17:38:40,159 [INFO] 1 change detected
+2025-03-17 17:38:40,570 [INFO] 1 change detected
+2025-03-17 17:38:41,890 [INFO] 1 change detected
+2025-03-17 17:38:42,256 [INFO] 1 change detected
+2025-03-17 17:38:42,616 [INFO] 1 change detected
+2025-03-17 17:38:43,028 [INFO] 1 change detected
+2025-03-17 17:38:43,440 [INFO] 1 change detected
+2025-03-17 17:38:43,852 [INFO] 1 change detected
+2025-03-17 17:38:45,070 [INFO] 1 change detected
+2025-03-17 17:38:45,423 [INFO] 1 change detected
+2025-03-17 17:38:45,785 [INFO] 1 change detected
+2025-03-17 17:38:46,197 [INFO] 1 change detected
+2025-03-17 17:38:46,560 [INFO] 1 change detected
+2025-03-17 17:38:46,977 [INFO] 1 change detected
+2025-03-17 17:38:47,359 [INFO] 1 change detected
+2025-03-17 17:38:48,726 [INFO] 1 change detected
+2025-03-17 17:38:49,084 [INFO] 1 change detected
+2025-03-17 17:38:49,449 [INFO] 1 change detected
+2025-03-17 17:38:49,858 [INFO] 1 change detected
+2025-03-17 17:38:50,264 [INFO] 1 change detected
+2025-03-17 17:38:50,674 [INFO] 1 change detected
+2025-03-17 17:38:51,989 [INFO] 1 change detected
+2025-03-17 17:38:52,346 [INFO] 1 change detected
+2025-03-17 17:38:52,721 [INFO] 1 change detected
+2025-03-17 17:38:53,135 [INFO] 1 change detected
+2025-03-17 17:38:53,538 [INFO] 1 change detected
+2025-03-17 17:38:53,943 [INFO] 1 change detected
+2025-03-17 17:38:55,159 [INFO] 1 change detected
+2025-03-17 17:38:55,519 [INFO] 1 change detected
+2025-03-17 17:38:55,880 [INFO] 1 change detected
+2025-03-17 17:38:56,290 [INFO] 1 change detected
+2025-03-17 17:38:56,698 [INFO] 1 change detected
+2025-03-17 17:38:57,106 [INFO] 1 change detected
+2025-03-17 17:38:57,512 [INFO] 1 change detected
+2025-03-17 17:38:58,783 [INFO] 1 change detected
+2025-03-17 17:38:59,143 [INFO] 1 change detected
+2025-03-17 17:38:59,508 [INFO] 1 change detected
+2025-03-17 17:38:59,918 [INFO] 1 change detected
+2025-03-17 17:39:00,323 [INFO] 1 change detected
+2025-03-17 17:39:00,680 [INFO] 1 change detected
+2025-03-17 17:39:01,952 [INFO] 1 change detected
+2025-03-17 17:39:02,318 [INFO] 1 change detected
+2025-03-17 17:39:02,679 [INFO] 1 change detected
+2025-03-17 17:39:03,091 [INFO] 1 change detected
+2025-03-17 17:39:03,499 [INFO] 1 change detected
+2025-03-17 17:39:03,905 [INFO] 1 change detected
+2025-03-17 17:39:04,315 [INFO] 1 change detected
+2025-03-17 17:39:05,432 [INFO] 1 change detected
+2025-03-17 17:39:05,795 [INFO] 1 change detected
+2025-03-17 17:39:06,158 [INFO] 1 change detected
+2025-03-17 17:39:06,566 [INFO] 1 change detected
+2025-03-17 17:39:07,008 [INFO] 1 change detected
+2025-03-17 17:39:07,376 [INFO] 1 change detected
+2025-03-17 17:39:08,545 [INFO] 1 change detected
+2025-03-17 17:39:08,899 [INFO] 1 change detected
+2025-03-17 17:39:09,264 [INFO] 1 change detected
+2025-03-17 17:39:09,676 [INFO] 1 change detected
+2025-03-17 17:39:10,086 [INFO] 1 change detected
+2025-03-17 17:39:10,451 [INFO] 1 change detected
+2025-03-17 17:39:11,921 [INFO] 1 change detected
+2025-03-17 17:39:12,282 [INFO] 1 change detected
+2025-03-17 17:39:12,693 [INFO] 1 change detected
+2025-03-17 17:39:13,054 [INFO] 1 change detected
+2025-03-17 17:39:13,468 [INFO] 1 change detected
+2025-03-17 17:39:13,882 [INFO] 1 change detected
+2025-03-17 17:39:15,101 [INFO] 1 change detected
+2025-03-17 17:39:15,472 [INFO] 1 change detected
+2025-03-17 17:39:15,836 [INFO] 1 change detected
+2025-03-17 17:39:16,249 [INFO] 1 change detected
+2025-03-17 17:39:16,612 [INFO] 1 change detected
+2025-03-17 17:39:17,024 [INFO] 1 change detected
+2025-03-17 17:39:17,481 [INFO] 1 change detected
+2025-03-17 17:39:18,792 [INFO] 1 change detected
+2025-03-17 17:39:19,146 [INFO] 1 change detected
+2025-03-17 17:39:19,503 [INFO] 1 change detected
+2025-03-17 17:39:19,914 [INFO] 1 change detected
+2025-03-17 17:39:20,327 [INFO] 1 change detected
+2025-03-17 17:39:20,731 [INFO] 1 change detected
+2025-03-17 17:39:21,947 [INFO] 1 change detected
+2025-03-17 17:39:22,308 [INFO] 1 change detected
+2025-03-17 17:39:22,719 [INFO] 1 change detected
+2025-03-17 17:39:23,124 [INFO] 1 change detected
+2025-03-17 17:39:23,530 [INFO] 1 change detected
+2025-03-17 17:39:23,934 [INFO] 1 change detected
+2025-03-17 17:39:24,340 [INFO] 1 change detected
+2025-03-17 17:39:25,605 [INFO] 1 change detected
+2025-03-17 17:39:25,961 [INFO] 1 change detected
+2025-03-17 17:39:26,368 [INFO] 1 change detected
+2025-03-17 17:39:26,781 [INFO] 1 change detected
+2025-03-17 17:39:27,137 [INFO] 1 change detected
+2025-03-17 17:39:27,549 [INFO] 1 change detected
+2025-03-17 17:39:28,712 [INFO] 1 change detected
+2025-03-17 17:39:29,067 [INFO] 1 change detected
+2025-03-17 17:39:29,481 [INFO] 1 change detected
+2025-03-17 17:39:29,886 [INFO] 1 change detected
+2025-03-17 17:39:30,294 [INFO] 1 change detected
+2025-03-17 17:39:30,663 [INFO] 1 change detected
+2025-03-17 17:39:32,032 [INFO] 1 change detected
+2025-03-17 17:39:32,398 [INFO] 1 change detected
+2025-03-17 17:39:32,805 [INFO] 1 change detected
+2025-03-17 17:39:33,214 [INFO] 1 change detected
+2025-03-17 17:39:33,620 [INFO] 1 change detected
+2025-03-17 17:39:33,980 [INFO] 1 change detected
+2025-03-17 17:39:34,396 [INFO] 1 change detected
+2025-03-17 17:39:35,718 [INFO] 1 change detected
+2025-03-17 17:39:36,085 [INFO] 1 change detected
+2025-03-17 17:39:36,447 [INFO] 1 change detected
+2025-03-17 17:39:36,879 [INFO] 1 change detected
+2025-03-17 17:39:37,329 [INFO] 1 change detected
+2025-03-17 17:39:37,738 [INFO] 1 change detected
+2025-03-17 17:39:39,001 [INFO] 1 change detected
+2025-03-17 17:39:39,361 [INFO] 1 change detected
+2025-03-17 17:39:39,725 [INFO] 1 change detected
+2025-03-17 17:39:40,137 [INFO] 1 change detected
+2025-03-17 17:39:40,549 [INFO] 1 change detected
+2025-03-17 17:39:40,910 [INFO] 1 change detected
+2025-03-17 17:39:41,322 [INFO] 1 change detected
+2025-03-17 17:39:42,743 [INFO] 1 change detected
+2025-03-17 17:39:43,099 [INFO] 1 change detected
+2025-03-17 17:39:43,462 [INFO] 1 change detected
+2025-03-17 17:39:43,879 [INFO] 1 change detected
+2025-03-17 17:39:44,287 [INFO] 1 change detected
+2025-03-17 17:39:44,697 [INFO] 1 change detected
+2025-03-17 17:39:45,815 [INFO] 1 change detected
+2025-03-17 17:39:46,168 [INFO] 1 change detected
+2025-03-17 17:39:46,592 [INFO] 1 change detected
+2025-03-17 17:39:46,957 [INFO] 1 change detected
+2025-03-17 17:39:47,367 [INFO] 1 change detected
+2025-03-17 17:39:47,775 [INFO] 1 change detected
+2025-03-17 17:39:48,183 [INFO] 1 change detected
+2025-03-17 17:39:49,457 [INFO] 1 change detected
+2025-03-17 17:39:49,823 [INFO] 1 change detected
+2025-03-17 17:39:50,231 [INFO] 1 change detected
+2025-03-17 17:39:50,638 [INFO] 1 change detected
+2025-03-17 17:39:50,999 [INFO] 1 change detected
+2025-03-17 17:39:51,410 [INFO] 1 change detected
+2025-03-17 17:39:52,573 [INFO] 1 change detected
+2025-03-17 17:39:52,929 [INFO] 1 change detected
+2025-03-17 17:39:53,175 [INFO] Shutting down the API server...
+2025-03-17 17:40:20,395 [INFO] Starting up the API server...
+2025-03-17 17:40:20,396 [INFO] API server started successfully
+2025-03-17 17:40:52,185 [INFO] Request: GET /health - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:03,594 [INFO] Response: GET /health - Status: 200 - Time: 11408.81ms
+2025-03-17 17:41:05,634 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: version=non_existent
+2025-03-17 17:41:05,640 [ERROR] HTTP error: 404 - Model 'default' not found with version 'non_existent'
+2025-03-17 17:41:05,641 [INFO] Response: GET /info - Status: 404 - Time: 7.01ms
+2025-03-17 17:41:07,683 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:07,691 [INFO] Response: GET /info - Status: 200 - Time: 8.00ms
+2025-03-17 17:41:09,720 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:09,726 [INFO] Response: GET /info - Status: 200 - Time: 7.00ms
+2025-03-17 17:41:11,754 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:11,759 [INFO] Response: GET /info - Status: 200 - Time: 5.02ms
+2025-03-17 17:41:13,798 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:13,802 [INFO] Response: GET /info - Status: 200 - Time: 3.99ms
+2025-03-17 17:41:15,844 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:15,849 [INFO] Response: GET /info - Status: 200 - Time: 5.00ms
+2025-03-17 17:41:17,887 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:17,893 [INFO] Response: GET /info - Status: 200 - Time: 5.99ms
+2025-03-17 17:41:19,928 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:19,932 [INFO] Response: GET /info - Status: 200 - Time: 4.00ms
+2025-03-17 17:41:21,971 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:21,976 [INFO] Response: GET /info - Status: 200 - Time: 5.99ms
+2025-03-17 17:41:23,999 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:24,003 [INFO] Response: GET /info - Status: 200 - Time: 4.05ms
+2025-03-17 17:41:26,037 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:26,041 [INFO] Response: GET /info - Status: 200 - Time: 4.02ms
+2025-03-17 17:41:28,083 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:28,088 [INFO] Response: GET /info - Status: 200 - Time: 5.00ms
+2025-03-17 17:41:30,128 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:30,133 [INFO] Response: GET /info - Status: 200 - Time: 5.26ms
+2025-03-17 17:41:32,157 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:32,163 [INFO] Response: GET /info - Status: 200 - Time: 5.58ms
+2025-03-17 17:41:34,195 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:34,200 [INFO] Response: GET /info - Status: 200 - Time: 5.00ms
+2025-03-17 17:41:36,230 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:36,233 [INFO] Response: GET /info - Status: 200 - Time: 3.08ms
+2025-03-17 17:41:38,275 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:38,280 [INFO] Response: GET /info - Status: 200 - Time: 6.35ms
+2025-03-17 17:41:40,304 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 17:41:40,307 [INFO] Response: GET /info - Status: 200 - Time: 3.60ms
+2025-03-17 17:42:08,154 [INFO] Request: POST /predict - Client: 127.0.0.1 - Params: 
+2025-03-17 17:42:08,176 [INFO] Response: POST /predict - Status: 200 - Time: 22.79ms
+2025-03-17 17:42:10,226 [INFO] Request: POST /predict - Client: 127.0.0.1 - Params: 
+2025-03-17 17:42:10,232 [ERROR] Validation error: body.sepal_length: Input should be greater than 0
+2025-03-17 17:42:10,233 [INFO] Response: POST /predict - Status: 422 - Time: 7.88ms
+2025-03-17 17:42:12,269 [INFO] Request: POST /predict - Client: 127.0.0.1 - Params: 
+2025-03-17 17:42:12,275 [ERROR] Validation error: body.petal_length: Field required
+2025-03-17 17:42:12,276 [INFO] Response: POST /predict - Status: 422 - Time: 6.55ms
+2025-03-17 17:42:14,308 [INFO] Request: POST /predict - Client: 127.0.0.1 - Params: 
+2025-03-17 17:42:14,321 [INFO] Response: POST /predict - Status: 200 - Time: 13.02ms
+2025-03-17 17:42:16,358 [INFO] Request: POST /predict - Client: 127.0.0.1 - Params: 
+2025-03-17 17:42:16,363 [ERROR] Validation error: body.sepal_length: Input should be a valid number, unable to parse string as a number
+2025-03-17 17:42:16,364 [INFO] Response: POST /predict - Status: 422 - Time: 6.00ms
+2025-03-17 17:42:18,401 [INFO] Request: POST /predict - Client: 127.0.0.1 - Params: 
+2025-03-17 17:42:18,407 [ERROR] Validation error: body: Value error, Sepal length is typically greater than petal length for iris flowers
+2025-03-17 17:42:18,408 [INFO] Response: POST /predict - Status: 422 - Time: 7.02ms
+2025-03-17 17:46:49,857 [INFO] Shutting down the API server...
+2025-03-17 17:56:02,887 [INFO] Request: GET / - Client: 127.0.0.1 - Params: 
+2025-03-17 17:56:02,889 [INFO] Response: GET / - Status: 200 - Time: 2.12ms
+2025-03-17 17:56:02,955 [INFO] Request: GET /favicon.ico - Client: 127.0.0.1 - Params: 
+2025-03-17 17:56:02,956 [INFO] Response: GET /favicon.ico - Status: 404 - Time: 0.97ms
+2025-03-17 17:56:06,954 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-17 17:56:06,955 [INFO] Response: GET /docs - Status: 200 - Time: 1.00ms
+2025-03-17 17:56:07,359 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-17 17:56:07,388 [INFO] Response: GET /openapi.json - Status: 200 - Time: 29.00ms
+2025-03-17 17:58:00,570 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-17 17:58:00,573 [INFO] Response: GET /docs - Status: 200 - Time: 3.00ms
+2025-03-17 17:58:00,683 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-17 17:58:00,704 [INFO] Response: GET /openapi.json - Status: 200 - Time: 20.98ms
+2025-03-17 17:58:41,418 [INFO] Request: GET /redoc - Client: 127.0.0.1 - Params: 
+2025-03-17 17:58:41,420 [INFO] Response: GET /redoc - Status: 200 - Time: 3.06ms
+2025-03-17 17:58:41,693 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-17 17:58:41,695 [INFO] Response: GET /openapi.json - Status: 200 - Time: 2.21ms
+2025-03-17 18:10:30,693 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-17 18:10:30,696 [INFO] Response: GET /docs - Status: 200 - Time: 4.09ms
+2025-03-17 18:10:30,794 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-17 18:10:30,817 [INFO] Response: GET /openapi.json - Status: 200 - Time: 23.19ms
+2025-03-17 18:10:52,770 [INFO] Request: GET /redoc - Client: 127.0.0.1 - Params: 
+2025-03-17 18:10:52,773 [INFO] Response: GET /redoc - Status: 200 - Time: 3.22ms
+2025-03-17 18:10:52,935 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-17 18:10:52,938 [INFO] Response: GET /openapi.json - Status: 200 - Time: 2.75ms
+2025-03-17 18:11:12,771 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-17 18:11:12,774 [INFO] Response: GET /docs - Status: 200 - Time: 3.27ms
+2025-03-17 18:11:13,152 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-17 18:11:13,154 [INFO] Response: GET /openapi.json - Status: 200 - Time: 3.42ms
+2025-03-17 18:11:16,215 [INFO] Request: GET /documentation - Client: 127.0.0.1 - Params: 
+2025-03-17 18:11:16,222 [INFO] Response: GET /documentation - Status: 200 - Time: 7.00ms
+2025-03-17 18:13:42,989 [INFO] Request: GET / - Client: 127.0.0.1 - Params: 
+2025-03-17 18:13:42,992 [INFO] Response: GET / - Status: 200 - Time: 3.01ms
+2025-03-17 18:13:45,068 [INFO] Request: GET /info - Client: 127.0.0.1 - Params: 
+2025-03-17 18:13:46,829 [INFO] Response: GET /info - Status: 200 - Time: 1761.54ms
+2025-03-17 18:13:48,867 [INFO] Request: POST /predict - Client: 127.0.0.1 - Params: 
+2025-03-17 18:13:48,883 [INFO] Response: POST /predict - Status: 200 - Time: 16.00ms
+2025-03-18 10:03:51,536 [INFO] Starting production server on 0.0.0.0:8000
+2025-03-18 10:04:04,019 [INFO] Request: GET /redoc - Client: 127.0.0.1 - Params: 
+2025-03-18 10:04:04,020 [ERROR] Unhandled exception
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 174, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 767, in __aexit__
+  |     raise BaseExceptionGroup(
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    |     self.gen.throw(typ, value, traceback)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 136, in log_requests
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 153, in call_next
+    |     raise app_exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 140, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    |     self.gen.throw(typ, value, traceback)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 87, in monitoring_middleware
+    |     start_time = time.time()
+    |                  ^^^^
+    | NameError: name 'time' is not defined
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 136, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 153, in call_next
+    raise app_exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 140, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 87, in monitoring_middleware
+    start_time = time.time()
+                 ^^^^
+NameError: name 'time' is not defined
+2025-03-18 10:04:10,520 [INFO] Request: GET / - Client: 127.0.0.1 - Params: 
+2025-03-18 10:04:10,521 [ERROR] Unhandled exception
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 174, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 767, in __aexit__
+  |     raise BaseExceptionGroup(
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    |     self.gen.throw(typ, value, traceback)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 136, in log_requests
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 153, in call_next
+    |     raise app_exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 140, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    |     self.gen.throw(typ, value, traceback)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 87, in monitoring_middleware
+    |     start_time = time.time()
+    |                  ^^^^
+    | NameError: name 'time' is not defined
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 136, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 153, in call_next
+    raise app_exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 140, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 87, in monitoring_middleware
+    start_time = time.time()
+                 ^^^^
+NameError: name 'time' is not defined
+2025-03-18 10:04:10,777 [INFO] Request: GET / - Client: 127.0.0.1 - Params: 
+2025-03-18 10:04:10,779 [ERROR] Unhandled exception
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 174, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 767, in __aexit__
+  |     raise BaseExceptionGroup(
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    |     self.gen.throw(typ, value, traceback)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 136, in log_requests
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 153, in call_next
+    |     raise app_exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 140, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    |     self.gen.throw(typ, value, traceback)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 87, in monitoring_middleware
+    |     start_time = time.time()
+    |                  ^^^^
+    | NameError: name 'time' is not defined
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 136, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 153, in call_next
+    raise app_exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 140, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 87, in monitoring_middleware
+    start_time = time.time()
+                 ^^^^
+NameError: name 'time' is not defined
+2025-03-18 10:05:33,030 [INFO] Starting production server on 0.0.0.0:8000
+2025-03-18 10:05:37,521 [INFO] Request: GET / - Client: 127.0.0.1 - Params: 
+2025-03-18 10:05:37,522 [ERROR] Unhandled exception
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 174, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 767, in __aexit__
+  |     raise BaseExceptionGroup(
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    |     self.gen.throw(typ, value, traceback)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 136, in log_requests
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 153, in call_next
+    |     raise app_exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 140, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    |     self.gen.throw(typ, value, traceback)
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 110, in monitoring_middleware
+    |     monitor.record_request(
+    |     ^^^^^^^
+    | NameError: name 'monitor' is not defined
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 136, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 153, in call_next
+    raise app_exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 140, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 173, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\venv\Lib\site-packages\starlette\middleware\base.py", line 175, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RémiJulien\OneDrive\Documents\DcidConsulting\2.Prestation\3.Formation\3.Production\2025_FASTAPI\basic\step7\app\main.py", line 110, in monitoring_middleware
+    monitor.record_request(
+    ^^^^^^^
+NameError: name 'monitor' is not defined
+2025-03-18 10:08:47,074 [INFO] Starting production server on 0.0.0.0:8000
+2025-03-18 10:08:49,963 [INFO] Request: GET / - Client: 127.0.0.1 - Params: 
+2025-03-18 10:08:49,965 [INFO] Response: GET / - Status: 200 - Time: 2.27ms
+2025-03-18 10:08:54,990 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-18 10:08:54,991 [INFO] Response: GET /docs - Status: 200 - Time: 1.01ms
+2025-03-18 10:08:55,206 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-18 10:08:55,245 [INFO] Response: GET /openapi.json - Status: 200 - Time: 39.59ms
+2025-03-18 10:08:57,136 [INFO] Request: GET /dcos - Client: 127.0.0.1 - Params: 
+2025-03-18 10:08:57,137 [INFO] Response: GET /dcos - Status: 404 - Time: 1.00ms
+2025-03-18 10:09:01,601 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-18 10:09:01,603 [INFO] Response: GET /docs - Status: 200 - Time: 2.60ms
+2025-03-18 10:09:01,812 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-18 10:09:01,814 [INFO] Response: GET /openapi.json - Status: 200 - Time: 1.52ms
+2025-03-18 10:09:12,038 [INFO] Request: GET /dashboard - Client: 127.0.0.1 - Params: 
+2025-03-18 10:09:12,044 [INFO] Response: GET /dashboard - Status: 200 - Time: 5.43ms
+2025-03-18 10:09:21,075 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:09:21,077 [INFO] Response: GET /metrics - Status: 200 - Time: 1.99ms
+2025-03-18 10:09:33,808 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:09:33,810 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.16ms
+2025-03-18 10:10:31,467 [INFO] Request: GET /monitoring - Client: 127.0.0.1 - Params: 
+2025-03-18 10:10:31,468 [INFO] Response: GET /monitoring - Status: 404 - Time: 1.53ms
+2025-03-18 10:10:50,844 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-18 10:10:50,847 [INFO] Response: GET /docs - Status: 200 - Time: 2.82ms
+2025-03-18 10:10:51,053 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-18 10:10:51,056 [INFO] Response: GET /openapi.json - Status: 200 - Time: 3.20ms
+2025-03-18 10:10:55,736 [INFO] Request: GET /dashboard - Client: 127.0.0.1 - Params: 
+2025-03-18 10:10:55,737 [INFO] Response: GET /dashboard - Status: 200 - Time: 1.10ms
+2025-03-18 10:10:55,762 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:10:55,763 [INFO] Response: GET /metrics - Status: 200 - Time: 1.01ms
+2025-03-18 10:10:55,770 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:10:55,772 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:10:55,777 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:10:55,781 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 4.36ms
+2025-03-18 10:10:59,751 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:10:59,752 [INFO] Response: GET /metrics - Status: 200 - Time: 1.57ms
+2025-03-18 10:10:59,756 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:10:59,757 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.52ms
+2025-03-18 10:10:59,762 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:10:59,763 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.63ms
+2025-03-18 10:11:00,768 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:00,770 [INFO] Response: GET /metrics - Status: 200 - Time: 1.99ms
+2025-03-18 10:11:00,779 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:00,781 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:11:00,785 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:00,787 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.01ms
+2025-03-18 10:11:01,481 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:01,483 [INFO] Response: GET /metrics - Status: 200 - Time: 1.53ms
+2025-03-18 10:11:01,486 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:01,488 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.02ms
+2025-03-18 10:11:01,492 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:01,493 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.02ms
+2025-03-18 10:11:02,137 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:02,139 [INFO] Response: GET /metrics - Status: 200 - Time: 2.01ms
+2025-03-18 10:11:02,145 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:02,147 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.32ms
+2025-03-18 10:11:02,153 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:02,154 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.03ms
+2025-03-18 10:11:05,755 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:05,757 [INFO] Response: GET /metrics - Status: 200 - Time: 1.56ms
+2025-03-18 10:11:05,763 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:05,765 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.92ms
+2025-03-18 10:11:05,771 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:05,773 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.42ms
+2025-03-18 10:11:11,550 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:11,553 [INFO] Response: GET /metrics - Status: 200 - Time: 2.52ms
+2025-03-18 10:11:11,558 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:11,560 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 0.98ms
+2025-03-18 10:11:11,563 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:11,565 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.89ms
+2025-03-18 10:11:13,830 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:13,832 [INFO] Response: GET /docs - Status: 200 - Time: 2.52ms
+2025-03-18 10:11:13,878 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:13,882 [INFO] Response: GET /openapi.json - Status: 200 - Time: 4.00ms
+2025-03-18 10:11:14,672 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:14,674 [INFO] Response: GET /docs - Status: 200 - Time: 2.01ms
+2025-03-18 10:11:14,719 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:14,721 [INFO] Response: GET /openapi.json - Status: 200 - Time: 2.00ms
+2025-03-18 10:11:15,042 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:15,043 [INFO] Response: GET /docs - Status: 200 - Time: 1.01ms
+2025-03-18 10:11:15,093 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:15,096 [INFO] Response: GET /openapi.json - Status: 200 - Time: 2.01ms
+2025-03-18 10:11:15,191 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:15,192 [INFO] Response: GET /docs - Status: 200 - Time: 1.51ms
+2025-03-18 10:11:15,229 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:15,230 [INFO] Response: GET /openapi.json - Status: 200 - Time: 1.00ms
+2025-03-18 10:11:15,761 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:15,763 [INFO] Response: GET /metrics - Status: 200 - Time: 2.53ms
+2025-03-18 10:11:15,768 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:15,769 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.16ms
+2025-03-18 10:11:15,774 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:15,775 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.78ms
+2025-03-18 10:11:25,762 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:25,763 [INFO] Response: GET /metrics - Status: 200 - Time: 2.65ms
+2025-03-18 10:11:25,774 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:25,777 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.99ms
+2025-03-18 10:11:25,787 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:25,788 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.00ms
+2025-03-18 10:11:35,760 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:35,761 [INFO] Response: GET /metrics - Status: 200 - Time: 0.89ms
+2025-03-18 10:11:35,772 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:35,773 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.63ms
+2025-03-18 10:11:35,783 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:35,785 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.67ms
+2025-03-18 10:11:45,766 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:45,768 [INFO] Response: GET /metrics - Status: 200 - Time: 2.01ms
+2025-03-18 10:11:45,775 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:45,779 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.93ms
+2025-03-18 10:11:45,784 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:45,785 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.01ms
+2025-03-18 10:11:55,767 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:11:55,769 [INFO] Response: GET /metrics - Status: 200 - Time: 2.02ms
+2025-03-18 10:11:55,779 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:55,781 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.01ms
+2025-03-18 10:11:55,791 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:11:55,793 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:12:05,124 [INFO] Request: GET /dashboard - Client: 127.0.0.1 - Params: 
+2025-03-18 10:12:05,126 [INFO] Response: GET /dashboard - Status: 200 - Time: 1.00ms
+2025-03-18 10:12:05,150 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:12:05,153 [INFO] Response: GET /metrics - Status: 200 - Time: 2.52ms
+2025-03-18 10:12:05,158 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:05,159 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 0.00ms
+2025-03-18 10:12:05,166 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:05,166 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 0.00ms
+2025-03-18 10:12:15,160 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:12:15,162 [INFO] Response: GET /metrics - Status: 200 - Time: 2.61ms
+2025-03-18 10:12:15,169 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:15,171 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:12:15,179 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:15,181 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.98ms
+2025-03-18 10:12:25,161 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:12:25,164 [INFO] Response: GET /metrics - Status: 200 - Time: 2.21ms
+2025-03-18 10:12:25,171 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:25,172 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.00ms
+2025-03-18 10:12:25,180 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:25,182 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:12:35,158 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:12:35,160 [INFO] Response: GET /metrics - Status: 200 - Time: 2.01ms
+2025-03-18 10:12:35,167 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:35,169 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.96ms
+2025-03-18 10:12:35,174 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:35,175 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.04ms
+2025-03-18 10:12:45,164 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:12:45,165 [INFO] Response: GET /metrics - Status: 200 - Time: 2.01ms
+2025-03-18 10:12:45,170 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:45,171 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.02ms
+2025-03-18 10:12:45,175 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:45,177 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.51ms
+2025-03-18 10:12:55,157 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:12:55,159 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 10:12:55,167 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:55,168 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.55ms
+2025-03-18 10:12:55,179 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:12:55,181 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:13:05,154 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:13:05,155 [INFO] Response: GET /metrics - Status: 200 - Time: 1.10ms
+2025-03-18 10:13:05,161 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:05,161 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 0.57ms
+2025-03-18 10:13:05,169 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:05,170 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.85ms
+2025-03-18 10:13:15,164 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:13:15,166 [INFO] Response: GET /metrics - Status: 200 - Time: 2.03ms
+2025-03-18 10:13:15,175 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:15,177 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.75ms
+2025-03-18 10:13:15,188 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:15,190 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.04ms
+2025-03-18 10:13:25,158 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:13:25,160 [INFO] Response: GET /metrics - Status: 200 - Time: 1.96ms
+2025-03-18 10:13:25,169 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:25,171 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:13:25,177 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:25,178 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.00ms
+2025-03-18 10:13:35,155 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:13:35,157 [INFO] Response: GET /metrics - Status: 200 - Time: 2.14ms
+2025-03-18 10:13:35,171 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:35,174 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.59ms
+2025-03-18 10:13:35,183 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:35,185 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.52ms
+2025-03-18 10:13:45,155 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:13:45,155 [INFO] Response: GET /metrics - Status: 200 - Time: 1.10ms
+2025-03-18 10:13:45,160 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:45,161 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.08ms
+2025-03-18 10:13:45,165 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:45,166 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 0.79ms
+2025-03-18 10:13:55,163 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:13:55,165 [INFO] Response: GET /metrics - Status: 200 - Time: 1.46ms
+2025-03-18 10:13:55,169 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:55,169 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 0.00ms
+2025-03-18 10:13:55,174 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:13:55,175 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.02ms
+2025-03-18 10:14:05,163 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:14:05,165 [INFO] Response: GET /metrics - Status: 200 - Time: 1.99ms
+2025-03-18 10:14:05,173 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:05,175 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.43ms
+2025-03-18 10:14:05,182 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:05,184 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.47ms
+2025-03-18 10:14:15,171 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:14:15,173 [INFO] Response: GET /metrics - Status: 200 - Time: 2.07ms
+2025-03-18 10:14:15,179 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:15,181 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:14:15,188 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:15,190 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.01ms
+2025-03-18 10:14:25,152 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:14:25,152 [INFO] Response: GET /metrics - Status: 200 - Time: 0.00ms
+2025-03-18 10:14:25,157 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:25,158 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.00ms
+2025-03-18 10:14:25,163 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:25,164 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.01ms
+2025-03-18 10:14:35,899 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:14:35,900 [INFO] Response: GET /metrics - Status: 200 - Time: 0.96ms
+2025-03-18 10:14:35,908 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:35,910 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.01ms
+2025-03-18 10:14:35,915 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:35,916 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:14:45,152 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:14:45,153 [INFO] Response: GET /metrics - Status: 200 - Time: 0.52ms
+2025-03-18 10:14:45,157 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:45,158 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.01ms
+2025-03-18 10:14:45,165 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:45,166 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:14:55,149 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:14:55,151 [INFO] Response: GET /metrics - Status: 200 - Time: 1.01ms
+2025-03-18 10:14:55,156 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:55,157 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.01ms
+2025-03-18 10:14:55,161 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:14:55,163 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.62ms
+2025-03-18 10:15:05,153 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:15:05,155 [INFO] Response: GET /metrics - Status: 200 - Time: 1.52ms
+2025-03-18 10:15:05,164 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:05,166 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.02ms
+2025-03-18 10:15:05,176 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:05,178 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:15:15,150 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:15:15,151 [INFO] Response: GET /metrics - Status: 200 - Time: 1.21ms
+2025-03-18 10:15:15,155 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:15,156 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.22ms
+2025-03-18 10:15:15,160 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:15,161 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.15ms
+2025-03-18 10:15:25,165 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:15:25,168 [INFO] Response: GET /metrics - Status: 200 - Time: 2.73ms
+2025-03-18 10:15:25,176 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:25,178 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.02ms
+2025-03-18 10:15:25,189 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:25,191 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.04ms
+2025-03-18 10:15:35,155 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:15:35,157 [INFO] Response: GET /metrics - Status: 200 - Time: 2.15ms
+2025-03-18 10:15:35,165 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:35,167 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.06ms
+2025-03-18 10:15:35,175 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:35,176 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.06ms
+2025-03-18 10:15:45,157 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:15:45,159 [INFO] Response: GET /metrics - Status: 200 - Time: 1.99ms
+2025-03-18 10:15:45,167 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:45,169 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:15:45,179 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:45,181 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.99ms
+2025-03-18 10:15:55,163 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:15:55,164 [INFO] Response: GET /metrics - Status: 200 - Time: 1.41ms
+2025-03-18 10:15:55,173 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:55,175 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.10ms
+2025-03-18 10:15:55,184 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:15:55,186 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.88ms
+2025-03-18 10:16:05,161 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:16:05,163 [INFO] Response: GET /metrics - Status: 200 - Time: 2.57ms
+2025-03-18 10:16:05,170 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:05,173 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.11ms
+2025-03-18 10:16:05,182 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:05,185 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.62ms
+2025-03-18 10:16:15,161 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:16:15,163 [INFO] Response: GET /metrics - Status: 200 - Time: 1.90ms
+2025-03-18 10:16:15,170 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:15,173 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.54ms
+2025-03-18 10:16:15,183 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:15,185 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.01ms
+2025-03-18 10:16:25,157 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:16:25,159 [INFO] Response: GET /metrics - Status: 200 - Time: 2.07ms
+2025-03-18 10:16:25,169 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:25,170 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 0.99ms
+2025-03-18 10:16:25,180 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:25,182 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.08ms
+2025-03-18 10:16:35,166 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:16:35,169 [INFO] Response: GET /metrics - Status: 200 - Time: 2.10ms
+2025-03-18 10:16:35,176 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:35,177 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.06ms
+2025-03-18 10:16:35,188 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:35,190 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:16:45,161 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:16:45,162 [INFO] Response: GET /metrics - Status: 200 - Time: 1.56ms
+2025-03-18 10:16:45,169 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:45,171 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.45ms
+2025-03-18 10:16:45,176 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:45,178 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.53ms
+2025-03-18 10:16:55,165 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:16:55,166 [INFO] Response: GET /metrics - Status: 200 - Time: 1.02ms
+2025-03-18 10:16:55,172 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:55,173 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.00ms
+2025-03-18 10:16:55,178 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:16:55,179 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 0.96ms
+2025-03-18 10:17:05,901 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:17:05,901 [INFO] Response: GET /metrics - Status: 200 - Time: 0.00ms
+2025-03-18 10:17:05,906 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:05,907 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.61ms
+2025-03-18 10:17:05,912 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:05,913 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 0.52ms
+2025-03-18 10:17:15,902 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:17:15,904 [INFO] Response: GET /metrics - Status: 200 - Time: 1.54ms
+2025-03-18 10:17:15,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:15,912 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.53ms
+2025-03-18 10:17:15,918 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:15,920 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.02ms
+2025-03-18 10:17:25,901 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:17:25,904 [INFO] Response: GET /metrics - Status: 200 - Time: 2.64ms
+2025-03-18 10:17:25,913 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:25,917 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.53ms
+2025-03-18 10:17:25,927 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:25,929 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:17:35,902 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:17:35,905 [INFO] Response: GET /metrics - Status: 200 - Time: 2.80ms
+2025-03-18 10:17:35,916 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:35,919 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.00ms
+2025-03-18 10:17:35,927 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:35,929 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.89ms
+2025-03-18 10:17:45,908 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:17:45,910 [INFO] Response: GET /metrics - Status: 200 - Time: 1.97ms
+2025-03-18 10:17:45,918 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:45,920 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.06ms
+2025-03-18 10:17:45,931 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:45,933 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.54ms
+2025-03-18 10:17:55,902 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:17:55,904 [INFO] Response: GET /metrics - Status: 200 - Time: 2.03ms
+2025-03-18 10:17:55,913 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:55,914 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.54ms
+2025-03-18 10:17:55,921 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:17:55,923 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.51ms
+2025-03-18 10:18:05,155 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:05,157 [INFO] Response: GET /metrics - Status: 200 - Time: 1.53ms
+2025-03-18 10:18:05,165 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:05,167 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.01ms
+2025-03-18 10:18:05,175 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:05,177 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:18:07,841 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:07,843 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.52ms
+2025-03-18 10:18:07,883 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:07,884 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.08ms
+2025-03-18 10:18:11,025 [INFO] Request: GET /docs - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:11,027 [INFO] Response: GET /docs - Status: 200 - Time: 2.00ms
+2025-03-18 10:18:11,206 [INFO] Request: GET /openapi.json - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:11,207 [INFO] Response: GET /openapi.json - Status: 200 - Time: 1.00ms
+2025-03-18 10:18:14,523 [INFO] Request: GET /documentation - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:14,529 [INFO] Response: GET /documentation - Status: 200 - Time: 6.32ms
+2025-03-18 10:18:15,894 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:15,896 [INFO] Response: GET /metrics - Status: 200 - Time: 2.69ms
+2025-03-18 10:18:15,905 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:15,906 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 0.99ms
+2025-03-18 10:18:15,915 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:15,917 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.01ms
+2025-03-18 10:18:23,994 [INFO] Request: GET /dashboard - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:23,996 [INFO] Response: GET /dashboard - Status: 200 - Time: 2.63ms
+2025-03-18 10:18:24,012 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:24,012 [INFO] Response: GET /metrics - Status: 200 - Time: 0.51ms
+2025-03-18 10:18:24,023 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:24,025 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.63ms
+2025-03-18 10:18:24,030 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:24,032 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:18:34,017 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:34,018 [INFO] Response: GET /metrics - Status: 200 - Time: 1.52ms
+2025-03-18 10:18:34,026 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:34,028 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.94ms
+2025-03-18 10:18:34,034 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:34,036 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:18:44,908 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:44,910 [INFO] Response: GET /metrics - Status: 200 - Time: 2.01ms
+2025-03-18 10:18:44,916 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:44,918 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.01ms
+2025-03-18 10:18:44,924 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:44,925 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 0.98ms
+2025-03-18 10:18:47,520 [INFO] Request: GET /testerror - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:47,521 [INFO] Response: GET /testerror - Status: 404 - Time: 1.00ms
+2025-03-18 10:18:50,389 [INFO] Request: GET /dashboard - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:50,391 [INFO] Response: GET /dashboard - Status: 200 - Time: 1.93ms
+2025-03-18 10:18:50,409 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:50,411 [INFO] Response: GET /metrics - Status: 200 - Time: 2.97ms
+2025-03-18 10:18:50,420 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:50,421 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.00ms
+2025-03-18 10:18:50,425 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:50,428 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.53ms
+2025-03-18 10:18:58,686 [INFO] Request: GET /dashboard - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:58,688 [INFO] Response: GET /dashboard - Status: 200 - Time: 1.74ms
+2025-03-18 10:18:58,702 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:18:58,703 [INFO] Response: GET /metrics - Status: 200 - Time: 1.00ms
+2025-03-18 10:18:58,707 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:58,709 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.72ms
+2025-03-18 10:18:58,713 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:18:58,715 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.73ms
+2025-03-18 10:19:01,859 [INFO] Request: GET /documentation - Client: 127.0.0.1 - Params: 
+2025-03-18 10:19:01,862 [INFO] Response: GET /documentation - Status: 200 - Time: 3.01ms
+2025-03-18 10:19:04,124 [INFO] Request: GET /dashboard - Client: 127.0.0.1 - Params: 
+2025-03-18 10:19:04,126 [INFO] Response: GET /dashboard - Status: 200 - Time: 2.00ms
+2025-03-18 10:19:04,140 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:19:04,141 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 10:19:04,147 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:04,150 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.23ms
+2025-03-18 10:19:04,155 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:04,157 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.95ms
+2025-03-18 10:19:14,154 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:19:14,157 [INFO] Response: GET /metrics - Status: 200 - Time: 3.30ms
+2025-03-18 10:19:14,163 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:14,166 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.10ms
+2025-03-18 10:19:14,173 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:14,176 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.01ms
+2025-03-18 10:19:24,148 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:19:24,149 [INFO] Response: GET /metrics - Status: 200 - Time: 1.11ms
+2025-03-18 10:19:24,156 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:24,158 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.02ms
+2025-03-18 10:19:24,163 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:24,164 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.02ms
+2025-03-18 10:19:34,895 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:19:34,897 [INFO] Response: GET /metrics - Status: 200 - Time: 1.98ms
+2025-03-18 10:19:34,905 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:34,907 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.89ms
+2025-03-18 10:19:34,914 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:34,916 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.56ms
+2025-03-18 10:19:44,901 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:19:44,904 [INFO] Response: GET /metrics - Status: 200 - Time: 2.31ms
+2025-03-18 10:19:44,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:44,912 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.03ms
+2025-03-18 10:19:44,920 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:44,921 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.01ms
+2025-03-18 10:19:54,904 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:19:54,907 [INFO] Response: GET /metrics - Status: 200 - Time: 3.10ms
+2025-03-18 10:19:54,915 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:54,917 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.03ms
+2025-03-18 10:19:54,923 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:19:54,925 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.42ms
+2025-03-18 10:20:04,901 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:20:04,903 [INFO] Response: GET /metrics - Status: 200 - Time: 2.05ms
+2025-03-18 10:20:04,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:04,914 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.10ms
+2025-03-18 10:20:04,921 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:04,922 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 0.99ms
+2025-03-18 10:20:14,898 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:20:14,900 [INFO] Response: GET /metrics - Status: 200 - Time: 1.94ms
+2025-03-18 10:20:14,907 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:14,909 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.53ms
+2025-03-18 10:20:14,917 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:14,920 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:20:24,904 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:20:24,906 [INFO] Response: GET /metrics - Status: 200 - Time: 2.12ms
+2025-03-18 10:20:24,914 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:24,916 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:20:24,922 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:24,924 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.45ms
+2025-03-18 10:20:34,909 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:20:34,911 [INFO] Response: GET /metrics - Status: 200 - Time: 2.01ms
+2025-03-18 10:20:34,919 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:34,920 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.01ms
+2025-03-18 10:20:34,927 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:34,928 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:20:44,903 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:20:44,904 [INFO] Response: GET /metrics - Status: 200 - Time: 1.15ms
+2025-03-18 10:20:44,910 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:44,911 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.00ms
+2025-03-18 10:20:44,916 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:44,918 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:20:54,898 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:20:54,901 [INFO] Response: GET /metrics - Status: 200 - Time: 3.00ms
+2025-03-18 10:20:54,908 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:54,910 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:20:54,919 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:20:54,923 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 4.00ms
+2025-03-18 10:21:04,905 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:21:04,907 [INFO] Response: GET /metrics - Status: 200 - Time: 2.02ms
+2025-03-18 10:21:04,915 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:21:04,917 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.27ms
+2025-03-18 10:21:04,926 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:21:04,928 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.01ms
+2025-03-18 10:21:55,899 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:21:55,900 [INFO] Response: GET /metrics - Status: 200 - Time: 2.06ms
+2025-03-18 10:21:55,906 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:21:55,908 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:21:55,917 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:21:55,920 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.51ms
+2025-03-18 10:22:55,909 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:22:55,911 [INFO] Response: GET /metrics - Status: 200 - Time: 2.02ms
+2025-03-18 10:22:55,921 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:22:55,924 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.54ms
+2025-03-18 10:22:55,931 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:22:55,932 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.00ms
+2025-03-18 10:23:55,901 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:23:55,903 [INFO] Response: GET /metrics - Status: 200 - Time: 1.51ms
+2025-03-18 10:23:55,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:23:55,913 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.52ms
+2025-03-18 10:23:55,918 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:23:55,919 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.00ms
+2025-03-18 10:24:55,911 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:24:55,913 [INFO] Response: GET /metrics - Status: 200 - Time: 2.52ms
+2025-03-18 10:24:55,922 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:24:55,923 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.51ms
+2025-03-18 10:24:55,928 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:24:55,930 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:25:55,905 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:25:55,907 [INFO] Response: GET /metrics - Status: 200 - Time: 2.11ms
+2025-03-18 10:25:55,916 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:25:55,917 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.04ms
+2025-03-18 10:25:55,925 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:25:55,926 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.73ms
+2025-03-18 10:26:55,896 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:26:55,898 [INFO] Response: GET /metrics - Status: 200 - Time: 3.02ms
+2025-03-18 10:26:55,909 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:26:55,912 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.65ms
+2025-03-18 10:26:55,919 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:26:55,921 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.51ms
+2025-03-18 10:27:55,899 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:27:55,902 [INFO] Response: GET /metrics - Status: 200 - Time: 2.47ms
+2025-03-18 10:27:55,909 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:27:55,911 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.99ms
+2025-03-18 10:27:55,916 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:27:55,917 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.00ms
+2025-03-18 10:28:55,900 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:28:55,903 [INFO] Response: GET /metrics - Status: 200 - Time: 2.58ms
+2025-03-18 10:28:55,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:28:55,914 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.03ms
+2025-03-18 10:28:55,923 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:28:55,926 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.76ms
+2025-03-18 10:29:55,902 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:29:55,904 [INFO] Response: GET /metrics - Status: 200 - Time: 2.02ms
+2025-03-18 10:29:55,912 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:29:55,914 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.99ms
+2025-03-18 10:29:55,921 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:29:55,923 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.03ms
+2025-03-18 10:30:55,903 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:30:55,904 [INFO] Response: GET /metrics - Status: 200 - Time: 1.00ms
+2025-03-18 10:30:55,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:30:55,913 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.02ms
+2025-03-18 10:30:55,922 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:30:55,924 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 10:31:55,893 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:31:55,896 [INFO] Response: GET /metrics - Status: 200 - Time: 2.42ms
+2025-03-18 10:31:55,904 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:31:55,908 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.67ms
+2025-03-18 10:31:55,918 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:31:55,920 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.03ms
+2025-03-18 10:32:55,909 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:32:55,911 [INFO] Response: GET /metrics - Status: 200 - Time: 1.92ms
+2025-03-18 10:32:55,920 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:32:55,924 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.29ms
+2025-03-18 10:32:55,935 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:32:55,938 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.13ms
+2025-03-18 10:33:55,908 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:33:55,910 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 10:33:55,920 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:33:55,923 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.72ms
+2025-03-18 10:33:55,933 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:33:55,936 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.01ms
+2025-03-18 10:34:55,910 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:34:55,912 [INFO] Response: GET /metrics - Status: 200 - Time: 1.51ms
+2025-03-18 10:34:55,921 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:34:55,923 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.08ms
+2025-03-18 10:34:55,933 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:34:55,936 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.01ms
+2025-03-18 10:35:55,899 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:35:55,901 [INFO] Response: GET /metrics - Status: 200 - Time: 3.05ms
+2025-03-18 10:35:55,910 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:35:55,912 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.47ms
+2025-03-18 10:35:55,922 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:35:55,924 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.40ms
+2025-03-18 10:36:55,902 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:36:55,904 [INFO] Response: GET /metrics - Status: 200 - Time: 2.01ms
+2025-03-18 10:36:55,913 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:36:55,916 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.64ms
+2025-03-18 10:36:55,924 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:36:55,926 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.65ms
+2025-03-18 10:37:55,906 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:37:55,909 [INFO] Response: GET /metrics - Status: 200 - Time: 2.13ms
+2025-03-18 10:37:55,917 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:37:55,919 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.99ms
+2025-03-18 10:37:55,927 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:37:55,930 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.03ms
+2025-03-18 10:38:55,902 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:38:55,904 [INFO] Response: GET /metrics - Status: 200 - Time: 2.06ms
+2025-03-18 10:38:55,912 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:38:55,915 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.00ms
+2025-03-18 10:38:55,926 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:38:55,929 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.03ms
+2025-03-18 10:39:55,902 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:39:55,904 [INFO] Response: GET /metrics - Status: 200 - Time: 2.02ms
+2025-03-18 10:39:55,913 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:39:55,917 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 4.50ms
+2025-03-18 10:39:55,926 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:39:55,929 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.88ms
+2025-03-18 10:40:55,899 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:40:55,901 [INFO] Response: GET /metrics - Status: 200 - Time: 2.09ms
+2025-03-18 10:40:55,909 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:40:55,911 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:40:55,920 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:40:55,924 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.76ms
+2025-03-18 10:41:55,905 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:41:55,906 [INFO] Response: GET /metrics - Status: 200 - Time: 1.10ms
+2025-03-18 10:41:55,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:41:55,912 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.63ms
+2025-03-18 10:41:55,917 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:41:55,918 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.05ms
+2025-03-18 10:42:55,900 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:42:55,902 [INFO] Response: GET /metrics - Status: 200 - Time: 3.11ms
+2025-03-18 10:42:55,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:42:55,913 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.67ms
+2025-03-18 10:42:55,919 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:42:55,921 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.01ms
+2025-03-18 10:43:55,906 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:43:55,909 [INFO] Response: GET /metrics - Status: 200 - Time: 3.01ms
+2025-03-18 10:43:55,919 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:43:55,922 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.51ms
+2025-03-18 10:43:55,932 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:43:55,934 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.56ms
+2025-03-18 10:44:55,912 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:44:55,914 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 10:44:55,923 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:44:55,924 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.13ms
+2025-03-18 10:44:55,934 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:44:55,935 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.51ms
+2025-03-18 10:45:55,900 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:45:55,901 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 10:45:55,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:45:55,912 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.21ms
+2025-03-18 10:45:55,919 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:45:55,920 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 0.99ms
+2025-03-18 10:46:55,899 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:46:55,903 [INFO] Response: GET /metrics - Status: 200 - Time: 3.65ms
+2025-03-18 10:46:55,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:46:55,915 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.89ms
+2025-03-18 10:46:55,924 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:46:55,927 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.76ms
+2025-03-18 10:47:55,896 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:47:55,898 [INFO] Response: GET /metrics - Status: 200 - Time: 2.02ms
+2025-03-18 10:47:55,906 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:47:55,908 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:47:55,916 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:47:55,917 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.01ms
+2025-03-18 10:48:55,910 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:48:55,912 [INFO] Response: GET /metrics - Status: 200 - Time: 1.92ms
+2025-03-18 10:48:55,921 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:48:55,922 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.53ms
+2025-03-18 10:48:55,932 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:48:55,934 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.12ms
+2025-03-18 10:49:55,907 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:49:55,909 [INFO] Response: GET /metrics - Status: 200 - Time: 2.03ms
+2025-03-18 10:49:55,918 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:49:55,920 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.04ms
+2025-03-18 10:49:55,930 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:49:55,932 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.53ms
+2025-03-18 10:50:55,909 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:50:55,910 [INFO] Response: GET /metrics - Status: 200 - Time: 1.06ms
+2025-03-18 10:50:55,920 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:50:55,922 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.03ms
+2025-03-18 10:50:55,929 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:50:55,931 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.01ms
+2025-03-18 10:51:55,901 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:51:55,902 [INFO] Response: GET /metrics - Status: 200 - Time: 1.16ms
+2025-03-18 10:51:55,907 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:51:55,909 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.74ms
+2025-03-18 10:51:55,913 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:51:55,914 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.06ms
+2025-03-18 10:52:55,906 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:52:55,908 [INFO] Response: GET /metrics - Status: 200 - Time: 2.02ms
+2025-03-18 10:52:55,919 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:52:55,922 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.51ms
+2025-03-18 10:52:55,933 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:52:55,937 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 4.01ms
+2025-03-18 10:53:55,903 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:53:55,905 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 10:53:55,913 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:53:55,915 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:53:55,924 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:53:55,927 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.01ms
+2025-03-18 10:54:55,903 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:54:55,905 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 10:54:55,920 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:54:55,922 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.62ms
+2025-03-18 10:54:55,928 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:54:55,930 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.01ms
+2025-03-18 10:55:55,897 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:55:55,899 [INFO] Response: GET /metrics - Status: 200 - Time: 1.91ms
+2025-03-18 10:55:55,904 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:55:55,905 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.10ms
+2025-03-18 10:55:55,909 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:55:55,910 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.32ms
+2025-03-18 10:56:55,891 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:56:55,892 [INFO] Response: GET /metrics - Status: 200 - Time: 1.00ms
+2025-03-18 10:56:55,897 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:56:55,898 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 10:56:55,903 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:56:55,904 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.22ms
+2025-03-18 10:57:55,903 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:57:55,906 [INFO] Response: GET /metrics - Status: 200 - Time: 3.02ms
+2025-03-18 10:57:55,917 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:57:55,921 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.11ms
+2025-03-18 10:57:55,928 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:57:55,929 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.00ms
+2025-03-18 10:58:55,900 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:58:55,903 [INFO] Response: GET /metrics - Status: 200 - Time: 2.78ms
+2025-03-18 10:58:55,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:58:55,914 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.73ms
+2025-03-18 10:58:55,923 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:58:55,925 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.01ms
+2025-03-18 10:59:55,902 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 10:59:55,905 [INFO] Response: GET /metrics - Status: 200 - Time: 3.02ms
+2025-03-18 10:59:55,916 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:59:55,920 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 4.03ms
+2025-03-18 10:59:55,928 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 10:59:55,930 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 11:00:55,910 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:00:55,913 [INFO] Response: GET /metrics - Status: 200 - Time: 2.73ms
+2025-03-18 11:00:55,923 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:00:55,926 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.00ms
+2025-03-18 11:00:55,934 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:00:55,937 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.11ms
+2025-03-18 11:01:55,907 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:01:55,908 [INFO] Response: GET /metrics - Status: 200 - Time: 0.96ms
+2025-03-18 11:01:55,913 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:01:55,913 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 0.00ms
+2025-03-18 11:01:55,916 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:01:55,917 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.01ms
+2025-03-18 11:02:55,900 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:02:55,903 [INFO] Response: GET /metrics - Status: 200 - Time: 2.72ms
+2025-03-18 11:02:55,910 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:02:55,912 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 11:02:55,920 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:02:55,922 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.08ms
+2025-03-18 11:03:55,908 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:03:55,910 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 11:03:55,916 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:03:55,918 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.01ms
+2025-03-18 11:03:55,925 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:03:55,926 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.51ms
+2025-03-18 11:04:55,904 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:04:55,905 [INFO] Response: GET /metrics - Status: 200 - Time: 1.00ms
+2025-03-18 11:04:55,909 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:04:55,910 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 0.98ms
+2025-03-18 11:04:55,928 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:04:55,929 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 0.98ms
+2025-03-18 11:05:55,905 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:05:55,906 [INFO] Response: GET /metrics - Status: 200 - Time: 1.58ms
+2025-03-18 11:05:55,912 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:05:55,913 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.02ms
+2025-03-18 11:05:55,918 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:05:55,919 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.02ms
+2025-03-18 11:06:55,905 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:06:55,907 [INFO] Response: GET /metrics - Status: 200 - Time: 2.55ms
+2025-03-18 11:06:55,915 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:06:55,916 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.52ms
+2025-03-18 11:06:55,920 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:06:55,921 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.00ms
+2025-03-18 11:07:55,908 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:07:55,910 [INFO] Response: GET /metrics - Status: 200 - Time: 2.02ms
+2025-03-18 11:07:55,918 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:07:55,920 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.99ms
+2025-03-18 11:07:55,930 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:07:55,931 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.00ms
+2025-03-18 11:08:55,901 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:08:55,904 [INFO] Response: GET /metrics - Status: 200 - Time: 2.34ms
+2025-03-18 11:08:55,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:08:55,914 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.52ms
+2025-03-18 11:08:55,923 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:08:55,925 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.01ms
+2025-03-18 11:09:55,909 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:09:55,911 [INFO] Response: GET /metrics - Status: 200 - Time: 1.86ms
+2025-03-18 11:09:55,921 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:09:55,923 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.99ms
+2025-03-18 11:09:55,933 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:09:55,935 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.01ms
+2025-03-18 11:10:55,905 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:10:55,907 [INFO] Response: GET /metrics - Status: 200 - Time: 1.50ms
+2025-03-18 11:10:55,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:10:55,912 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.00ms
+2025-03-18 11:10:55,916 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:10:55,917 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.01ms
+2025-03-18 11:11:55,911 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:11:55,913 [INFO] Response: GET /metrics - Status: 200 - Time: 2.09ms
+2025-03-18 11:11:55,923 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:11:55,924 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.68ms
+2025-03-18 11:11:55,935 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:11:55,937 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.64ms
+2025-03-18 11:12:55,898 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:12:55,901 [INFO] Response: GET /metrics - Status: 200 - Time: 3.00ms
+2025-03-18 11:12:55,911 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:12:55,913 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 11:12:55,921 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:12:55,923 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.02ms
+2025-03-18 11:13:55,900 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:13:55,902 [INFO] Response: GET /metrics - Status: 200 - Time: 1.99ms
+2025-03-18 11:13:55,909 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:13:55,910 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 0.98ms
+2025-03-18 11:13:55,921 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:13:55,926 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 5.00ms
+2025-03-18 11:14:55,895 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:14:55,896 [INFO] Response: GET /metrics - Status: 200 - Time: 1.44ms
+2025-03-18 11:14:55,905 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:14:55,908 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.79ms
+2025-03-18 11:14:55,916 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:14:55,919 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.56ms
+2025-03-18 11:15:55,912 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:15:55,914 [INFO] Response: GET /metrics - Status: 200 - Time: 1.99ms
+2025-03-18 11:15:55,923 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:15:55,924 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 0.99ms
+2025-03-18 11:15:55,933 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:15:55,937 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 4.00ms
+2025-03-18 11:16:55,896 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:16:55,899 [INFO] Response: GET /metrics - Status: 200 - Time: 2.49ms
+2025-03-18 11:16:55,907 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:16:55,909 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 11:16:55,920 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:16:55,921 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.00ms
+2025-03-18 11:17:55,910 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:17:55,912 [INFO] Response: GET /metrics - Status: 200 - Time: 2.03ms
+2025-03-18 11:17:55,922 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:17:55,925 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.99ms
+2025-03-18 11:17:55,934 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:17:55,935 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 0.99ms
+2025-03-18 11:18:55,903 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:18:55,905 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 11:18:55,913 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:18:55,915 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 11:18:55,924 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:18:55,926 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.99ms
+2025-03-18 11:19:55,905 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:19:55,907 [INFO] Response: GET /metrics - Status: 200 - Time: 2.55ms
+2025-03-18 11:19:55,915 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:19:55,918 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.10ms
+2025-03-18 11:19:55,925 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:19:55,927 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.92ms
+2025-03-18 11:20:55,909 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:20:55,911 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 11:20:55,921 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:20:55,923 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.02ms
+2025-03-18 11:20:55,933 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:20:55,936 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.00ms
+2025-03-18 11:21:55,895 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:21:55,898 [INFO] Response: GET /metrics - Status: 200 - Time: 2.52ms
+2025-03-18 11:21:55,906 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:21:55,910 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.13ms
+2025-03-18 11:21:55,919 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:21:55,920 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.00ms
+2025-03-18 11:22:55,905 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:22:55,908 [INFO] Response: GET /metrics - Status: 200 - Time: 2.59ms
+2025-03-18 11:22:55,917 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:22:55,919 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.52ms
+2025-03-18 11:22:55,925 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:22:55,927 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.51ms
+2025-03-18 11:23:55,905 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:23:55,908 [INFO] Response: GET /metrics - Status: 200 - Time: 2.78ms
+2025-03-18 11:23:55,917 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:23:55,918 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.54ms
+2025-03-18 11:23:55,925 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:23:55,927 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.51ms
+2025-03-18 11:24:55,903 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:24:55,905 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 11:24:55,914 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:24:55,916 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 11:24:55,923 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:24:55,925 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 11:25:55,897 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:25:55,898 [INFO] Response: GET /metrics - Status: 200 - Time: 2.53ms
+2025-03-18 11:25:55,906 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:25:55,907 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.00ms
+2025-03-18 11:25:55,910 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:25:55,911 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.02ms
+2025-03-18 11:26:55,896 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:26:55,898 [INFO] Response: GET /metrics - Status: 200 - Time: 2.13ms
+2025-03-18 11:26:55,906 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:26:55,907 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.64ms
+2025-03-18 11:26:55,914 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:26:55,915 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.96ms
+2025-03-18 11:27:55,903 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:27:55,905 [INFO] Response: GET /metrics - Status: 200 - Time: 2.00ms
+2025-03-18 11:27:55,913 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:27:55,915 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 11:27:55,922 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:27:55,923 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.31ms
+2025-03-18 11:28:55,906 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:28:55,909 [INFO] Response: GET /metrics - Status: 200 - Time: 3.74ms
+2025-03-18 11:28:55,920 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:28:55,923 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.00ms
+2025-03-18 11:28:55,932 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:28:55,935 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.02ms
+2025-03-18 11:29:55,901 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:29:55,904 [INFO] Response: GET /metrics - Status: 200 - Time: 3.01ms
+2025-03-18 11:29:55,912 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:29:55,915 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.00ms
+2025-03-18 11:29:55,925 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:29:55,928 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.53ms
+2025-03-18 11:30:55,898 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:30:55,901 [INFO] Response: GET /metrics - Status: 200 - Time: 2.95ms
+2025-03-18 11:30:55,909 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:30:55,912 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.02ms
+2025-03-18 11:30:55,923 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:30:55,924 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.06ms
+2025-03-18 11:31:55,902 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:31:55,904 [INFO] Response: GET /metrics - Status: 200 - Time: 2.02ms
+2025-03-18 11:31:55,910 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:31:55,912 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 11:31:55,918 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:31:55,921 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.00ms
+2025-03-18 11:32:55,906 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:32:55,908 [INFO] Response: GET /metrics - Status: 200 - Time: 2.66ms
+2025-03-18 11:32:55,917 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:32:55,919 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 11:32:55,927 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:32:55,929 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.54ms
+2025-03-18 11:33:55,896 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:33:55,899 [INFO] Response: GET /metrics - Status: 200 - Time: 2.95ms
+2025-03-18 11:33:55,908 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:33:55,910 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 11:33:55,918 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:33:55,920 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.00ms
+2025-03-18 11:34:55,898 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:34:55,900 [INFO] Response: GET /metrics - Status: 200 - Time: 2.19ms
+2025-03-18 11:34:55,909 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:34:55,911 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.01ms
+2025-03-18 11:34:55,919 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:34:55,922 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 3.07ms
+2025-03-18 11:35:55,900 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:35:55,902 [INFO] Response: GET /metrics - Status: 200 - Time: 2.03ms
+2025-03-18 11:35:55,948 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:35:55,950 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.00ms
+2025-03-18 11:35:55,954 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:35:55,955 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.00ms
+2025-03-18 11:36:55,902 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:36:55,903 [INFO] Response: GET /metrics - Status: 200 - Time: 0.99ms
+2025-03-18 11:36:55,908 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:36:55,909 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.09ms
+2025-03-18 11:36:55,914 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:36:55,915 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.05ms
+2025-03-18 11:37:55,900 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:37:55,903 [INFO] Response: GET /metrics - Status: 200 - Time: 2.50ms
+2025-03-18 11:37:55,912 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:37:55,914 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.00ms
+2025-03-18 11:37:55,923 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:37:55,925 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.99ms
+2025-03-18 11:38:55,907 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:38:55,908 [INFO] Response: GET /metrics - Status: 200 - Time: 1.64ms
+2025-03-18 11:38:55,912 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:38:55,913 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 1.06ms
+2025-03-18 11:38:55,916 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:38:55,917 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.06ms
+2025-03-18 11:39:55,895 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:39:55,898 [INFO] Response: GET /metrics - Status: 200 - Time: 2.71ms
+2025-03-18 11:39:55,906 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:39:55,909 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.46ms
+2025-03-18 11:39:55,918 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:39:55,920 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 2.05ms
+2025-03-18 11:40:55,909 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:40:55,911 [INFO] Response: GET /metrics - Status: 200 - Time: 1.97ms
+2025-03-18 11:40:55,920 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:40:55,922 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 2.01ms
+2025-03-18 11:40:55,930 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:40:55,931 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 1.74ms
+2025-03-18 11:41:55,906 [INFO] Request: GET /metrics - Client: 127.0.0.1 - Params: 
+2025-03-18 11:41:55,910 [INFO] Response: GET /metrics - Status: 200 - Time: 3.44ms
+2025-03-18 11:41:55,918 [INFO] Request: GET /metrics/requests - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:41:55,921 [INFO] Response: GET /metrics/requests - Status: 200 - Time: 3.02ms
+2025-03-18 11:41:55,929 [INFO] Request: GET /metrics/errors - Client: 127.0.0.1 - Params: limit=10
+2025-03-18 11:41:55,933 [INFO] Response: GET /metrics/errors - Status: 200 - Time: 4.53ms
