@@ -8447,3 +8447,9 @@ NameError: name 'logger' is not defined
 2025-03-24 10:38:37,406 [INFO] Request: POST /auth/token - Client: 127.0.0.1 - Params: 
 2025-03-24 10:38:37,412 [ERROR] HTTP error: 401 - Incorrect email or password
 2025-03-24 10:38:37,414 [INFO] Response: POST /auth/token - Status: 401 - Time: 8.43ms
+2025-03-24 10:41:17,154 [INFO] Request: POST /auth/token - Client: 127.0.0.1 - Params: 
+2025-03-24 10:41:17,180 [ERROR] HTTP error: 401 - Incorrect email or password
+2025-03-24 10:41:17,181 [INFO] Response: POST /auth/token - Status: 401 - Time: 27.00ms
+2025-03-24 10:41:40,263 [INFO] Request: POST /auth/token - Client: 127.0.0.1 - Params: 
+2025-03-24 10:41:40,270 [ERROR] HTTP error: 401 - Incorrect email or password
+2025-03-24 10:41:40,271 [INFO] Response: POST /auth/token - Status: 401 - Time: 8.99ms
