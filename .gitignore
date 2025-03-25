@@ -1,3 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+# Data
+data/raw/*
+data/processed/*
+data/external/*
+data/raw/.gitkeep
+data/processed/.gitkeep
+data/external/.gitkeep
+
+# Model files
+*.h5
+*.pkl
+*.model
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Repo-specific
 /documents
 /Learning track_students.md
 /Learning track_summary.md
@@ -9,4 +76,7 @@
 /step6
 /step6 copy
 /step7
-/venv
+*.OLD
+*.old
+*-old
+*-OLD
